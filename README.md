@@ -1,5 +1,5 @@
 # ECS34Proj3
-Projecy focuses on XML and DSV Parsing
+Project focuses on XML and DSV Parsing
 
 
 
